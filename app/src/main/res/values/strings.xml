@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ex2</string>
+    <string name="op1">Operand 1</string>
 </resources>
